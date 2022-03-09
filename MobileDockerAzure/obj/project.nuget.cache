@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dpVsctoNCCEmKkghpO1CdNuyjl1mpR8G2P08zCyrmENqVeXH05DP+O5m75pUMLiK1XQ4Hpj1bDsHCL8BTZl/kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2085205\\source\\repos\\MobileDockerAzure\\MobileDockerAzure\\MobileDockerAzure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2085205\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
